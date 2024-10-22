@@ -1,0 +1,4 @@
+ID |          Full Name           |      Doctor`s Full Name      | Age |    Mobile     | Postcode|    Symptoms 
+  1|         Sara  Smith          |             None             | 20  |  07012345678  |  B1 234  |     Commoncold      
+  2|         Mike  Jones          |             None             | 37  |  07555551234  |  L2 2AB  |    Stomach Pain     
+  3|         Daivd  Smith         |             None             | 15  |  07123456789  |  C1 ABC  |       Fever         
